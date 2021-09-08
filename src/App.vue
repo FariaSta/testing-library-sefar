@@ -3,7 +3,7 @@
     <img src="./assets/LOGO-SLOGAN-ING-18-1536x702.png" alt="Sefar" style="width: 200px; margin-top: 15px">
     <h3>Ejemplo PDF en Vue</h3>
     <WebViewer
-      initialDoc="https://sefarlibrary.netlify.app/familias.pdf"
+      initialDoc="/familias.pdf"
     />
   </div>
 </template>
