@@ -3,7 +3,7 @@
     <img src="./assets/LOGO-SLOGAN-ING-18-1536x702.png" alt="Sefar" style="width: 200px; margin-top: 15px">
     <h3>Ejemplo PDF en Vue</h3>
     <WebViewer
-      initialDoc="https://static0planetadelibroscom.cdnstatics.com/libros_contenido_extra/42/41659_Criptomonedas.pdf"
+      initialDoc="http://localhost:8080/familias.pdf"
     />
   </div>
 </template>
